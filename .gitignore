@@ -1,0 +1,5 @@
+# Freecad temp
+**/*.fcstd1
+
+# Outputs
+**/*.stl
