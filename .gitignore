@@ -3,3 +3,6 @@
 
 # Outputs
 **/*.stl
+**/*.step
+**/*.stp
+**/*.brep
